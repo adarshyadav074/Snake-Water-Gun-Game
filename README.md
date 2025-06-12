@@ -30,3 +30,4 @@ This is a simple **terminal-based Python mini project** where you can play the c
 ## 🚀 How to Run:
 1. Download or clone this repo:
    ```bash
+git clone https://github.com/adarshyadav074/-Snake-Water-Gun-Game---Python-Mini-Project.git
