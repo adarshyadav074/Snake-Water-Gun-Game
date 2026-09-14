@@ -1,10 +1,10 @@
-# 🐍 Snake-Water-Gun Game (Python)
+# Snake-Water-Gun Game (Python)
 
 This is a simple **terminal-based Python mini project** where you can play the classic *Snake-Water-Gun* game against the computer.
 
 ---
 
-## 🎮 Game Rules:
+## Game Rules:
 - **Snake drinks Water** → Snake wins
 - **Water drowns Gun** → Water wins
 - **Gun shoots Snake** → Gun wins
@@ -12,7 +12,7 @@ This is a simple **terminal-based Python mini project** where you can play the c
 
 ---
 
-## 🛠 Features:
+## Features:
 - Interactive user input
 - Random choice by computer
 - Winner calculation logic
@@ -21,6 +21,6 @@ This is a simple **terminal-based Python mini project** where you can play the c
 
 ---
 
-## 📦 Requirements:
+## Requirements:
 - Python 3.x (any version)
 - No external libraries required
